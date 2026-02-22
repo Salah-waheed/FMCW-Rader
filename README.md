@@ -1,4 +1,4 @@
-# 🚗 FMCW Radar System Simulation
+# FMCW Radar System Simulation
 
 **Institution:** Cairo University – Faculty of Engineering  
 **Course:** Signals and Systems  
@@ -6,7 +6,7 @@
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This project presents the design and simulation of a complete **Frequency-Modulated Continuous-Wave (FMCW) radar system** implemented in **MATLAB**.
 
@@ -16,7 +16,7 @@ The implementation follows the full radar signal chain, including signal generat
 
 ---
 
-## ⚙️ System Specifications
+## System Specifications
 
 The radar parameters were selected to achieve high-precision detection with a **range resolution of 15 cm**.
 
@@ -33,7 +33,7 @@ The radar parameters were selected to achieve high-precision detection with a **
 
 ---
 
-## 🧠 Implementation Methodology
+##  Implementation Methodology
 
 The simulation is divided into four main stages representing the complete FMCW radar processing pipeline.
 
@@ -80,7 +80,7 @@ Targets detected at approximately **40 m** and **120 m** with sub-centimeter err
 
 ---
 
-## ⭐ Advanced Features (Bonus)
+##  Advanced Features (Bonus)
 
 ### ✔ Cell-Averaging CFAR (CA-CFAR)
 
@@ -98,7 +98,7 @@ Adaptive thresholding algorithm that:
 
 ---
 
-## 📊 Simulation Results
+##  Simulation Results
 
 Performance evaluated under **high-noise conditions (5 dB SNR)**.
 
@@ -113,7 +113,7 @@ Performance evaluated under **high-noise conditions (5 dB SNR)**.
 
 ---
 
-## 📚 References
+##  References
 
 1. M. Jankiraman, *FMCW Radar Design*, Artech House, 2018.  
 2. S. Rao, *Introduction to mmWave Sensing: FMCW Radars*, Texas Instruments, 2017.  
