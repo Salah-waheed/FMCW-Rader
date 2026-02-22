@@ -113,39 +113,6 @@ Performance evaluated under **high-noise conditions (5 dB SNR)**.
 
 ---
 
-## 🧩 Project Structure (Example)
-
-```
-FMCW-Radar-Simulation/
-│
-├── FMCW.m                # Main simulation script
-├── functions/            # Helper processing functions
-├── results/              # Generated plots and figures
-├── README.md
-└── docs/                 # Report / additional documentation
-```
-
----
-
-## ▶️ How to Run
-
-1. Open MATLAB.
-2. Clone or download the repository:
-   ```bash
-   git clone <repo-link>
-   ```
-3. Open `FMCW.m`.
-4. Run the script.
-
-The simulation will automatically:
-
-- Generate chirps
-- Simulate targets
-- Perform FFT processing
-- Produce Range and Range-Doppler plots.
-
----
-
 ## 📚 References
 
 1. M. Jankiraman, *FMCW Radar Design*, Artech House, 2018.  
