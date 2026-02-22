@@ -1,0 +1,24 @@
+# MATLAB temporary files
+*.asv
+*.m~
+*.slprj/
+*.mex*
+*.p
+*.log
+
+# MATLAB Project and App metadata
+# (Exclude these if you want a "pure" script-only repo)
+.SimulinkProject/
+_autosave*
+
+# Data files
+# Ignore large .mat files to keep the repo small. 
+# If you have small target scenarios, you can comment this out.
+*.mat
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Documentation build folders
+/docs/temp/
